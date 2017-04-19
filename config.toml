@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "Test3"
+baseURL = "https:\/\/video.ricky.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
